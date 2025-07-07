@@ -18,6 +18,7 @@ We code smart, build fast, and meme responsibly.
 ### 👑 Owners:
 - [@tanishqtiwari7](https://github.com/tanishqtiwari7)
 - [@UdayKhare09](https://github.com/UdayKhare09)
+- [@Surendra1341](https://github.com/Surendra1341)
 
 ---
 
