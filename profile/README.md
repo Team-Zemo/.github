@@ -4,6 +4,7 @@
 
 ### *Where Ideas Transform Into Reality*
 
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
 [![Projects](https://img.shields.io/badge/Active%20Projects-15+-00D9FF?style=for-the-badge)](https://github.com/TeamZemo)
 [![Contributors](https://img.shields.io/badge/Contributors-Welcome-FF6B6B?style=for-the-badge)](https://github.com/TeamZemo)
 
@@ -66,15 +67,6 @@ Got a killer app idea? We might just build it. Submit your concept and watch the
 
 </details>
 
-<details>
-<summary><b>💼 Commercial Projects</b></summary>
-<br>
-
-Full-stack development, API design, mobile apps, and custom solutions for businesses that value speed and quality.
-
-**Tech Stack:** React • Next.js • Node.js • Python • Cloud Architecture
-
-</details>
 
 <details>
 <summary><b>🌱 Open Source</b></summary>
@@ -94,16 +86,45 @@ Contributing to the ecosystem that raised us. From small utilities to full-fledg
 
 | Role | Member | Superpower |
 |:-----|:-------|:-----------|
-| 🎯 Co-Founder | [@tanishqtiwari7](https://github.com/tanishqtiwari7) | UI/UX |
-| 🎯 Co-Founder | [@UdayKhare09](https://github.com/UdayKhare09) | Devops  |
+| 🎯 Co-Founder | [@tanishqtiwari7](https://github.com/tanishqtiwari7) | UI/UX Designer |
+| 🎯 Co-Founder | [@UdayKhare09](https://github.com/UdayKhare09) | DevOps Engineer |
 | 🎯 Co-Founder | [@Surendra1341](https://github.com/Surendra1341) | Backend Maestro |
 | 🎯 Co-Founder | [@Yadveer1](https://github.com/Yadveer1) | Frontend Craftsman |
+| 🎯 Co-Founder | [@RatanTiwari07](https://github.com/RatanTiwari07) | Full-Stack Wizard |
 
 </div>
 
 ---
 
+## 🛠️ Tech Stack
 
+<div align="center">
+
+### Backend & Infrastructure
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=microservices&logoColor=white)
+
+### Frontend & Design
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### Database & Mobile
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
 
 ## 🤝 Join The Crew
 
@@ -136,30 +157,27 @@ Need a product built? Want to turn your idea into reality? We deliver commercial
 
 ### Our Process
 
-```mermaid
-graph LR
-    A[Discovery] --> B[Design]
-    B --> C[Build]
-    C --> D[Ship]
-    D --> E[Iterate]
-    style A fill:#FF6B6B
-    style B fill:#4ECDC4
-    style C fill:#45B7D1
-    style D fill:#96CEB4
-    style E fill:#FFEAA7
-```
+<div align="center">
+
+**Discovery → Design → Build → Ship → Iterate**
+
+🔍 **Discovery** · 🎨 **Design** · ⚡ **Build** · 🚀 **Ship** · 🔄 **Iterate**
+
+*We move fast, iterate quickly, and deliver quality at every step.*
+
+</div>
 
 **Start a Conversation** → [Reach Out](mailto:your-email@example.com) or open a [project inquiry](https://github.com/TeamZemo/TeamZemo/issues/new?template=project-inquiry.md)
 
 ---
 
-## 📊 Stats & Activity
+## 📊 Our Impact
 
 <div align="center">
 
-![Team Activity](https://github-readme-stats.vercel.app/api?username=TeamZemo&show_icons=true&theme=radical&count_private=true)
+**🚀 Active Contributors:** 12+ | **💼 Projects Shipped:** 15+ | **⚡ Lines of Impact:** 500K+
 
-**Active Contributors:** 12+ | **Projects Shipped:** 15+ | **Lines of Impact:** 500K+
+*Building the future, one commit at a time.*
 
 </div>
 
@@ -172,7 +190,7 @@ graph LR
 [![GitHub](https://img.shields.io/badge/GitHub-TeamZemo-181717?style=for-the-badge&logo=github)](https://github.com/TeamZemo)
 [![Twitter](https://img.shields.io/badge/Twitter-@TeamZemo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TeamZemo)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykhare@gmail.com)
 
 </div>
 
