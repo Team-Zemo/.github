@@ -5,8 +5,8 @@
 ### *Where Ideas Transform Into Reality*
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
-[![Projects](https://img.shields.io/badge/Active%20Projects-15+-00D9FF?style=for-the-badge)](https://github.com/TeamZemo)
-[![Contributors](https://img.shields.io/badge/Contributors-Welcome-FF6B6B?style=for-the-badge)](https://github.com/TeamZemo)
+[![Projects](https://img.shields.io/badge/Active%20Projects-15+-00D9FF?style=for-the-badge)](https://github.com/Team-Zemo)
+[![Contributors](https://img.shields.io/badge/Contributors-Welcome-FF6B6B?style=for-the-badge)](https://github.com/Team-Zemo)
 
 *Building MVPs • Shipping Products • Creating Impact*
 
@@ -187,8 +187,8 @@ Need a product built? Want to turn your idea into reality? We deliver commercial
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-TeamZemo-181717?style=for-the-badge&logo=github)](https://github.com/TeamZemo)
-[![Twitter](https://img.shields.io/badge/Twitter-@TeamZemo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TeamZemo)
+[![GitHub](https://img.shields.io/badge/GitHub-TeamZemo-181717?style=for-the-badge&logo=github)](https://github.com/Team-Zemo)
+[![Twitter](https://img.shields.io/badge/Twitter-@TeamZemo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Team-Zemo)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykhare@gmail.com)
 
