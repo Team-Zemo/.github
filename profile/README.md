@@ -10,7 +10,7 @@
 
 *Building MVPs • Shipping Products • Creating Impact*
 
-[Explore Projects](#-featured-projects) • [Join Team](#-join-the-crew) • [Hire Us](#-work-with-us)
+[Join Team](#-join-the-crew) • [Hire Us](#-work-with-us)
 
 </div>
 
@@ -147,7 +147,7 @@ We're always looking for passionate builders who want to create impact. Whether 
 # Step 4: Ship something awesome together
 ```
 
-**Ready?** → [Open an Issue](https://github.com/TeamZemo/TeamZemo/issues/new) or DM any founder
+**Ready?** → [Open an Issue](https://github.com/Team-Zemo/.github/issues/new) or DM any founder
 
 ---
 
@@ -167,7 +167,7 @@ Need a product built? Want to turn your idea into reality? We deliver commercial
 
 </div>
 
-**Start a Conversation** → [Reach Out](mailto:your-email@example.com) or open a [project inquiry](https://github.com/TeamZemo/TeamZemo/issues/new?template=project-inquiry.md)
+**Start a Conversation** → [Reach Out](mailto:udaykhare77@gmail.com) or open a [project inquiry](https://github.com/Team-Zemo/.github/issues/new)
 
 ---
 
@@ -188,9 +188,9 @@ Need a product built? Want to turn your idea into reality? We deliver commercial
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-TeamZemo-181717?style=for-the-badge&logo=github)](https://github.com/Team-Zemo)
-[![Twitter](https://img.shields.io/badge/Twitter-@TeamZemo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Team-Zemo)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykhare@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@TeamZemo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/loading...)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/loading...)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykhare77@gmail.com)
 
 </div>
 
