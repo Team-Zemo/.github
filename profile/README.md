@@ -89,7 +89,7 @@ Contributing to the ecosystem that raised us. From small utilities to full-fledg
 | 🎯 Co-Founder | [@tanishqtiwari7](https://github.com/tanishqtiwari7) | UI/UX Devloper |
 | 🎯 Co-Founder | [@UdayKhare09](https://github.com/UdayKhare09) | DevOps Engineer |
 | 🎯 Co-Founder | [@Surendra1341](https://github.com/Surendra1341) | Backend Maestro |
-| 🎯 Co-Founder | [@Yadveer1](https://github.com/Yadveer1) | Frontend Craftsman |
+| 🎯 Co-Founder | [@Yadveer1](https://github.com/Yadveer1) | Full-Stack Craftsman |
 | 🎯 Co-Founder | [@RatanTiwari07](https://github.com/RatanTiwari07) | Full-Stack Wizard |
 
 </div>
